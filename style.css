@@ -6,7 +6,7 @@
                 background-color: rgb(255, 0, 0);
                 width: 230px;
                 height: 50px;
-                color: rgb(255, 255, 255)
+                color: rgb(255, 255, 255);
             }
             #webname{
                 justify-self: center;
@@ -36,4 +36,39 @@
                 width: 275px;
                 height: 60px;
                 justify-self: center;
+                box-shadow: 0 0 5px 5px rgb(44, 44, 44);
+            }
+            #our_app{
+                color: white;
+                background-color: purple;
+                width: 85px;
+                border-radius: 5px;
+            }
+            #our_tik1{
+                color: white;
+                background-color: purple;
+                text-decoration: none;
+                width: 257px;
+                border-radius: 5px;
+            }
+            #our_tik2{
+                color: white;
+                text-decoration: none;
+                background-color: purple;
+                width: 285px;
+                border-radius: 5px;
+            }
+            #our_youtube{
+                color: white;
+                background-color: purple;
+                text-decoration: none;
+                width: 225px;
+                border-radius: 5px;
+            }
+            #support_sign{
+                color: red;
+            }
+            #final_sign{
+                color: white;
+                font-size: large;
             }
